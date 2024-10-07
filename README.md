@@ -10,22 +10,22 @@
 7. **Aerial Images:** Adding aerial images to support the database could prove extremely beneficial in providing a unique way to view a perspective that could not be seen from ground level. The example can be found in [Lab 7](https://github.com/trayhughes8/Lab7).
 
 # Lab 8 ePortfolio Planning Discussion/Project Goal
-The Planning Discussion/Project Goal is to provide a solution in mastering the well databases from different databases. In order to accomplish this goal, we will be using Visual Studio Code and ArcPy softwares to build a tool that will import all data opinions of well locations, inverse between all the data and write to Master Well Location, build a check that determines if the coordinate was NAD83 vs. NAD 27, and to build a tool that allows users to select the Master Well Location from different aerial images.
+The Planning Discussion/Project Goal is to provide a solution in mastering the well databases from different databases. In order to accomplish this goal, we will be using Visual Studio Code and ArcPy software's to build a tool that will import all data opinions of well locations, inverse between all the data and write to Master Well Location, build a check that determines if the coordinate was NAD83 vs. NAD 27, and to build a tool that allows users to select the Master Well Location from different aerial images.
 
 # Justify the Return on Investment (ROI)
 By creating a Master Well Location database, it will overall reduce time spent working on the project, as well as reducing the amount of errors that are bound to happen over time. These exact examples happen time and time again, and this would be a solution to those problems. On top of saving time, effort, and errors, this would also save the company money in the long run.
 
 # Interface With Users
-ArcPy and ArcGIS Pro are both user firendly and can be downloaded and used on numerous platforms, giving them the ultimate flexibility. That is why we are using both softwares in developing our system to ensure usability with our clients.
+ArcPy and ArcGIS Pro are both user friendly and can be downloaded and used on numerous platforms, giving them the ultimate flexibility. That is why we are using both software's in developing our system to ensure usability with our clients.
 
 # Gather Requirments
 By using ArcPy, we will be able to read and execute on any databases that are given to our team. ArcPy will do the heavy lifting. 
 
 # Software and Databases being used
-As mentioned before, the two softwares we will be using are Visual Studio Code and ArcGIS Pro. Visual Studio Code will be used to utilize ArcPy on the programming side, and ArcGIS Pro will be used to test and ensure that our products are fully functioning before delivering our product.
+As mentioned before, the two software's we will be using are Visual Studio Code and ArcGIS Pro. Visual Studio Code will be used to utilize ArcPy on the programming side, and ArcGIS Pro will be used to test and ensure that our products are fully functioning before delivering our product.
 
 # Status Updates
 Status updates, as well as report updates, change depending on the customer. Our company is flexible enough to discuss what the customer would want for updates, and we then create a schedule to meet those needs. If we cannot meet those specific times or flexibility, then we will create a meeting to discuss further.
 
-# Deploy, maintain, and archeive your softare
+# Deploy, maintain, and archive your software
 We will charge an initial fee for deploying our product with the customers. After the initial deployment, there will be a monthly charge for maintaining and storing any data to do with the final product of the project.
